@@ -113,7 +113,7 @@
             statusDiv.textContent = '✅ Mapbox chargé, initialisation...';
             
             // Clé API Mapbox
-            mapboxgl.accessToken = 'pk.eyJ1IjoiZW5ndXNuYyIsImEiOiJjbWgxa3pidWswOW13MmtzZnlldzVuYWc3In0.FpHT1EXM_T5dZ4fO-VDMrA';
+            mapboxgl.accessToken = 'sk.eyJ1IjoiZW5ndXNuYyIsImEiOiJjbWgxa3lidmgwOWl2MmlzandydThncmtjIn0.50QbxDi-Mn4FURB5vgMhog';
 
             // Données de localisation
             let locationData = {
